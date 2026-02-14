@@ -29,9 +29,9 @@ _"Architecting scalable solutions for Mining, Energy, and FinTech industries."_
 
 I am a seasoned technology leader with over **15 years of experience** in software engineering and architecture. My career has been dedicated to building robust, high-performance systems for critical industries, ranging from industrial operations to modern financial ecosystems.
 
-- ⛏️ **Mining Sector:** Developed complex systems for optimizing mining operations and industrial processes.
-- ⚡ **Electrical Industry:** Architected critical infrastructure and **Kubernetes clusters** for the **National Electric Coordinator (CEN)**, ensuring stability and efficiency in energy data management.
 - 💰 **FinTech & SaaS:** Currently focused on the financial sector, driving innovation in Open Finance and secure data handling.
+- ⚡ **Electrical Industry:** Architected critical infrastructure and **Kubernetes clusters** for the **National Electric Coordinator (CEN)**, ensuring stability and efficiency in energy data management.
+- ⛏️ **Mining Sector:** Developed complex systems for optimizing mining operations and industrial processes.
 
 🚀 **Current Focus:**
 I am the **Architect and Head of [Boufin.com](https://boufin.com)**, a premier SaaS solution for Open Data and financial integration. I lead the technical vision and execution, enabling seamless and secure connectivity between financial institutions and businesses.
