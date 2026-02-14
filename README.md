@@ -4,23 +4,6 @@
 
 ### CTO & Software Engineer | 15+ Years of Experience
 
-<table border="0">
-<tr>
-<td width="70%" valign="center">
-
-_"Architecting scalable solutions for Mining, Energy, and FinTech industries."_
-
-<br>
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hvillarroel/)
-
-</td>
-<td width="30%" valign="center">
-<img src="./profile.png" align="right" width="180" style="border-radius: 50%;" alt="Héctor Villarroel Profile">
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
